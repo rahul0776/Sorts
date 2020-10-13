@@ -1,0 +1,6 @@
+/* 
+1.Stable
+2.Counting sort is efficient if the range of input data is not significantly greater than the number of objects to be sorted
+3.Complexity - O(n+k)
+
+*/
